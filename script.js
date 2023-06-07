@@ -79,11 +79,7 @@ function gameover() {
     }
 
 }
-
-
-
-
-
+//all the function will run here
 function start() {
     moveBall()
     changeDirection()
